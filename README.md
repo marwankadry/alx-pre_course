@@ -1,2 +1,1 @@
-My first readme
-My first readme
+Hello to my first commit
